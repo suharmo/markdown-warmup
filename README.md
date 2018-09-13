@@ -38,6 +38,6 @@
 	1. No goat staring at you on the back.
 	1. Instead of one column, they could spread the pictures
 	1. No more gift!!
-        2. Less rectangles and more fluent and visible navbars
-        3. ** more organized spots 
+        1. Less rectangles and more fluent and visible navbars
+        1. ** more organized spots ** 
 >>>>>>> adc61e4a5d95cd2ee81ced77a12f9e7b05e72705
